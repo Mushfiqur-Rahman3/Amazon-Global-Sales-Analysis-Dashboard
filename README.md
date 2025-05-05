@@ -36,8 +36,4 @@ Using the raw dataset (Orders, Returns, People), this project analyzes multi-yea
 - **Canon** and **Cisco** products consistently generate high profits, while others have recurring losses.
 - High return rates from certain regions may indicate issues in fulfillment or customer satisfaction.
 
----
-
-## 📁 Project Structure
-
 
